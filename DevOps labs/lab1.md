@@ -3,8 +3,10 @@
 
 1) __Проверяем, чтоб все устройства были подключены к одной локальной сети:__
    
-   ![1](https://github.com/ArturKalinin/cloud/assets/109699946/0e94dc72-2d26-4e96-a413-733b4066c084)
+   ![1](https://github.com/ArturKalinin/cloud/assets/109699946/0e13e4a2-c7bf-44b9-8a7c-88e814a9a304)
+
    <img width="567" alt="Снимок экрана 2023-09-28 в 13 35 11" src="https://github.com/ArturKalinin/cloud/assets/109699946/5fc323c6-0228-4e84-85d4-18b4665b0688">
+   
 ![4](https://github.com/ArturKalinin/cloud/assets/109699946/ab09c245-51dc-424d-aea8-39d80fcd0653)
 
 2) __Подключаемся с устройства A(имя пользователя artur) к устройству Б(имя пользователя kirill) с помощью команды `ssh [имя пользователя]@[ip-адрес]` и пароля от пользователя kirill:__
