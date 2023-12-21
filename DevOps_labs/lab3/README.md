@@ -43,28 +43,29 @@
  Использование никнейма:
  
  
- ![image](https://github.com/vitaliy1432/test/assets/112981941/0fdb0fb9-d584-4c0e-aec6-7f41d93eeee7)
- ![image](https://github.com/vitaliy1432/test/assets/112981941/ce73ae5f-a5d8-4fad-b158-e2d72d46e17a)
- ![image](https://github.com/vitaliy1432/test/assets/112981941/547083db-8448-4450-80ba-1247592f93ac)
+<img width="620" alt="Снимок экрана 2023-12-22 в 00 29 43" src="https://github.com/ArturKalinin/cloud/assets/109699946/ecead270-714b-47c3-a1a9-9eb3a9406d8a">
+
 
  
  Использование пароля:
  
- 
- ![image](https://github.com/vitaliy1432/test/assets/112981941/547083db-8448-4450-80ba-1247592f93ac)
+ <img width="618" alt="Снимок экрана 2023-12-22 в 00 29 55" src="https://github.com/ArturKalinin/cloud/assets/109699946/e1baab6d-2f93-4fae-be7d-67e6f6222f20">
 
+ 
  
  5. Смотрим прошло ли тесты:
  
- 
- ![image](https://github.com/vitaliy1432/test/assets/112981941/fe236069-573a-49c6-9dde-b937f39982ae)
- ![image](https://github.com/vitaliy1432/test/assets/112981941/e131a7e1-6d79-48ea-86d6-9980b7fecb9b)
+ <img width="603" alt="Снимок экрана 2023-12-22 в 00 32 05" src="https://github.com/ArturKalinin/cloud/assets/109699946/e05eccb7-ee61-4e48-aee5-7c6a4ed0e96f">
+<img width="433" alt="Снимок экрана 2023-12-22 в 00 32 09" src="https://github.com/ArturKalinin/cloud/assets/109699946/6af06cbe-3d84-4887-9a5c-84277a5b9757">
+
+
  
  
  6. Проверяем dockeкhub
  
  
- ![image](https://github.com/vitaliy1432/test/assets/112981941/9e69d87c-aa21-4ab8-b73c-7a1ce8741858)
+<img width="608" alt="Снимок экрана 2023-12-22 в 00 32 14" src="https://github.com/ArturKalinin/cloud/assets/109699946/3b25d1f5-0be5-4d88-842e-ccdb5df9f179">
+
 
  
  Все работает!👍
