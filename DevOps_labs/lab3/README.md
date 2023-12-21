@@ -9,31 +9,35 @@
  dvk.py:
  
  
- ![image](https://github.com/vitaliy1432/test/assets/112981941/d0a79a11-9a56-47f5-bdb0-3d2a9b16de99)
+![photo_2023-12-22 00 17 20](https://github.com/ArturKalinin/cloud/assets/109699946/365b5b55-0fe3-4d07-a85c-c6b731c0d180)
+
 
  
  dvk.txt:
  
- 
- ![image](https://github.com/vitaliy1432/test/assets/112981941/3c40c34f-fd4b-4b95-a625-73557dcda60f)
+ ![photo_2023-12-22 00 17 23](https://github.com/ArturKalinin/cloud/assets/109699946/4ff81ed4-8b60-4579-b226-a81f2aef4979)
+
+
 
  
  2. Создадим docker файл, для запуска тестов:
  
  
- ![image](https://github.com/vitaliy1432/test/assets/112981941/a6fba63e-c146-4748-9a6a-e103abe34d54)
+![photo_2023-12-22 00 17 25](https://github.com/ArturKalinin/cloud/assets/109699946/1a7e7952-d237-4088-bc8a-8ea468ad3dd7)
+
 
   
  4. Создадим секреты в виде имени и пароля пользователя, чтоб подключиться к dockerhub:
  
- 
- ![image](https://github.com/vitaliy1432/test/assets/112981941/728f4020-2eaa-42f0-aa26-e24d68c8160c)
+ ![photo_2023-12-22 00 17 27](https://github.com/ArturKalinin/cloud/assets/109699946/90946980-078a-427f-8cf0-4143213dbd3a)
+
 
  
  5. Создадим файл docker-build.yml, в котором будут задействованы наши секреты секреты, чтобы войти:
  
  
- ![image](https://github.com/vitaliy1432/test/assets/112981941/aee6a815-4b7a-4a43-95c0-bc5619ee6dda)
+![photo_2023-12-22 00 17 29](https://github.com/ArturKalinin/cloud/assets/109699946/84cffc26-0e1d-427d-b9f6-121953292ef7)
+
 
  
  Использование никнейма:
